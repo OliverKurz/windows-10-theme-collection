@@ -7,7 +7,7 @@ Installation Walkthrough
 
 ![restore](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/restore.png)
 
-2. There is an installer included in "files\patcher" for the **theme patcher** Theme Signature Bypass, I recommend using it:
+2. There's an installer included in "files\patcher" for the **theme patcher** Theme Signature Bypass that I recommend using:
 
 ![patcher](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/patcher.png)
 
