@@ -1,0 +1,126 @@
+; Copyright © Razorsedge.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Chrononaut
+SetLogonBackground=1
+BrandImage=C:\Windows\Resources\Themes\Chrononaut\Logo.png
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\imageres.dll\109.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\imageres.dll\123.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\imageres.dll\25.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\Resources\Themes\Chrononaut\imageres.dll\54.ico,0
+Empty=%SystemRoot%\Resources\Themes\Chrononaut\imageres.dll\55.ico,0
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\AppStarting.ani
+Arrow=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Arrow.ani
+Crosshair=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Cross.ani
+Hand=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Hand.ani
+Help=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Help.ani
+IBeam=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\IBeam.ani
+Link=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Button.ani
+No=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\NO.ani
+NWPen=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Handwriting.ani
+SizeAll=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\SizeAll.ani
+SizeNESW=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\SizeNESW.ani
+SizeNS=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\SizeNS.ani
+SizeNWSE=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\SizeNWSE.ani
+SizeWE=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\SizeWE.ani
+UpArrow=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\UpArrow.ani
+Wait=%SystemRoot%\Resources\Themes\Chrononaut\Cursors\Chrononaut\Wait.ani
+DefaultValue=Chrononaut
+
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\Chrononaut\Backgrounds\2.jpg
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Chrononaut\Chrononaut.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0x0F703b01
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Chrononaut
+
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Change Theme.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Logoff.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Logon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Resources\Themes\Chrononaut\Sound Scheme\Windows Information Bar.wav
+

@@ -1,0 +1,115 @@
+; Copyright © Mr GRiM Design.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=ASUS Platinum
+BrandImage=C:\Windows\Resources\Themes\ASUS Platinum\Logo.png
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\AppStarting.ani
+Arrow=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\Arrow.ani
+Crosshair=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\cross.ani
+Hand=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\Hand.ani
+Help=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\Help.ani
+IBeam=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\IBeam.ani
+No=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\NO.ani
+NWPen=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\Handwriting.ani
+SizeAll=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\SizeAll.ani
+SizeNESW=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\SizeNESW.ani
+SizeNS=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\SizeNS.ani
+SizeNWSE=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\SizeNWSE.ani
+SizeWE=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\SizeWE.ani
+UpArrow=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\UpArrow.ani
+Wait=%SystemRoot%\Resources\Themes\ASUS Platinum\Cursors\Revenge Platinum\Wait.ani
+DefaultValue=X_HALO
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\ASUS Platinum\Backgrounds\Wall.jpg
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\ASUS Platinum\ASUS Platinum.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0x0F151515
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=ASUS
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Change Theme.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Menu Command.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Logoff.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Logon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxError]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\FaxSent]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Platinum\Sound Scheme\Windows Information Bar.wav

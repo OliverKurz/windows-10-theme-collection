@@ -1,0 +1,132 @@
+; Copyright © Mr GRiM Design.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=HUD Red
+BrandImage=C:\Windows\Resources\Themes\HUD RED\Logo.png
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\imageres.dll\109.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\imageres.dll\123.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\imageres.dll\25.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=C:\Windows\Resources\Themes\HUD RED\imageres.dll\54.ico,0
+Empty=C:\Windows\Resources\Themes\HUD RED\imageres.dll\55.ico,0
+
+[Control Panel\Cursors]
+AppStarting=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\AppStarting.ani
+Arrow=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\Arrow.ani
+Crosshair=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\cross.ani
+Hand=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\Hand.ani
+Help=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\Help.ani
+IBeam=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\IBeam.ani
+No=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\NO.ani
+NWPen=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\Handwriting.ani
+SizeAll=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\SizeAll.ani
+SizeNESW=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\SizeNESW.ani
+SizeNS=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\SizeNS.ani
+SizeNWSE=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\SizeNWSE.ani
+SizeWE=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\SizeWE.ani
+UpArrow=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\UpArrow.ani
+Wait=C:\Windows\Resources\Themes\HUD RED\Cursors\EZMAX\Wait.ani
+DefaultValue=Glass Maxx
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=C:\Windows\Resources\Themes\HUD RED\Backgrounds\HUD Wallpaper Red.png
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+
+[VisualStyles]
+Path=C:\Windows\Resources\Themes\HUD RED\HUD RED.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0X1A000000
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=HUD
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Change Theme.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Menu Command.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Logoff.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Logon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxError]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\FaxSent]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=C:\Windows\Resources\Themes\HUD RED\Sound Scheme\Windows Information Bar.wav

@@ -1,0 +1,115 @@
+; Copyright © Mr GRiM Design.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=ASUS Gold
+BrandImage=C:\Windows\Resources\Themes\ASUS Gold\Logo.png
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\AppStarting.ani
+Arrow=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\Arrow.ani
+Crosshair=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\cross.ani
+Hand=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\Hand.ani
+Help=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\Help.ani
+IBeam=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\IBeam.ani
+No=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\NO.ani
+NWPen=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\Handwriting.ani
+SizeAll=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\SizeAll.ani
+SizeNESW=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\SizeNESW.ani
+SizeNS=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\SizeNS.ani
+SizeNWSE=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\SizeNWSE.ani
+SizeWE=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\SizeWE.ani
+UpArrow=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\UpArrow.ani
+Wait=%SystemRoot%\Resources\Themes\ASUS Gold\Cursors\Revenge Gold\Wait.ani
+DefaultValue=X_HALO
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\ASUS Gold\Backgrounds\Wall.jpg
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\ASUS Gold\ASUS Gold.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0x0F151515
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=ASUS
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Change Theme.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Menu Command.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Logoff.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Logon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxError]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\FaxSent]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Information Bar.wav

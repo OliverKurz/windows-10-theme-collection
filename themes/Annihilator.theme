@@ -1,0 +1,131 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows 8.1.1 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Annihilator
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\imageres.dll\109.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\imageres.dll\123.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\imageres.dll\25.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\Resources\Themes\Annihilator\imageres.dll\54.ico,0
+Empty=%SystemRoot%\Resources\Themes\Annihilator\imageres.dll\55.ico,0
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\Annihilator\Cursors\AppStarting.ani
+Arrow=%SystemRoot%\Resources\Themes\Annihilator\Cursors\Arrow.ani
+Crosshair=%SystemRoot%\Resources\Themes\Annihilator\Cursors\cross.ani
+Hand=%SystemRoot%\Resources\Themes\Annihilator\Cursors\Hand.ani
+Help=%SystemRoot%\Resources\Themes\Annihilator\Cursors\Help.ani
+IBeam=%SystemRoot%\Resources\Themes\Annihilator\Cursors\IBeam.ani
+No=%SystemRoot%\Resources\Themes\Annihilator\Cursors\NO.ani
+NWPen=%SystemRoot%\Resources\Themes\Annihilator\Cursors\Handwriting.ani
+SizeAll=%SystemRoot%\Resources\Themes\Annihilator\Cursors\SizeAll.ani
+SizeNESW=%SystemRoot%\Resources\Themes\Annihilator\Cursors\SizeNESW.ani
+SizeNS=%SystemRoot%\Resources\Themes\Annihilator\Cursors\SizeNS.ani
+SizeNWSE=%SystemRoot%\Resources\Themes\Annihilator\Cursors\SizeNWSE.ani
+SizeWE=%SystemRoot%\Resources\Themes\Annihilator\Cursors\SizeWE.ani
+UpArrow=%SystemRoot%\Resources\Themes\Annihilator\Cursors\UpArrow.ani
+Wait=%SystemRoot%\Resources\Themes\Annihilator\Cursors\Wait.ani
+DefaultValue=X_HALO
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\Annihilator\Backgrounds\Grungy_1920 x 1200.jpg
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Annihilator\Annihilator.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0x0F18191c
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Annihilator
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Change Theme.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Menu Command.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Logoff.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Logon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxError]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\FaxSent]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Resources\Themes\Annihilator\Sound Scheme\Windows Information Bar.wav
