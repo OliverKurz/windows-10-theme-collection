@@ -112,10 +112,6 @@ Imported from theme: [Hardwired](http://virtualcustoms.net/showthread.php/65278-
 ![HUD_Apocalypse](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/HUD_Apocalypse_Preview.png)
 Imported from theme: [HUD Apocalypse](http://virtualcustoms.net/showthread.php/66861-HUD-Apocalypse-Windows-8-1-1-Theme)
 
-#### HUD Machine Grey by Mr GRiM:
-![HUD_Machine_Grey](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/HUD_Machine_Grey_Preview.png)
-Imported from theme: [HUD Machine Grey](http://virtualcustoms.net/showthread.php/73261-HUD-Machine-Grey-for-Windows-8-1)
-
 #### HUD Machine White by Mr GRiM:
 ![HUD_Machine_White](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/HUD_Machine_White_Preview.png)
 Imported from theme: [HUD Machine White](http://virtualcustoms.net/showthread.php/77756-HUD-Machine-White-for-Windows-8-1)
