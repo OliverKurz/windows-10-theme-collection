@@ -27,7 +27,7 @@ If you're new to themeing on newer versions of Windows (8+) and have a problem w
 ![sib](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/sib.png)
 
 
-I have included start orbs in "files\orbs". Select the theme's start menu and an orb in the StartIsBack++ configuration and click apply. If it's not an option to choose the theme's start menu, later on you can check once your custom theme is applied. The "files\orbs_downsized" directory contains start orbs modified by me to work properly with the small taskbar buttons setting enabled.
+I have included start orbs in "files\orbs". Select the theme's start menu and an orb in the StartIsBack++ configuration and click apply. If it's not an option to choose the theme's start menu, later on you can check once your custom theme is applied. The "files\orbs_downsized" directory contains start orbs modified to work properly with the small taskbar buttons setting enabled.
 
 5. [Winaero Tweaker](https://winaero.com/download.php?view.1796) is the go to application for tweaking the rest of your system.
 
