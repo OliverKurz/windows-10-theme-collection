@@ -33,10 +33,6 @@ I have included start orbs in "files\orbs". Select the theme's start menu and an
 
 6. [Aero Glass for Win8.1+](http://www.glass8.eu/) is an optional advanced customization tool worth checking out. I have included my aero glass atlas themes located in "files\atlas-theme-collection", which you could optionally move to your Aero Glass folder if you choose to install it. Aero Glass can be safely installed in the existing "AeroGlass" directory if you chose to install Theme Signature Bypass to patch you system.
 
-Here is how the Aero Glass GUI looks with a custom theme atlas applied:
-
-![Aero_Glass_GUI](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/Aero_Glass_GUI.png)
-
 
 
 7. Install the fonts included in the "files\fonts" folder. This is an important step people sometimes forget. Type `ctrl+a` then rc + click "install" with "no" and "do this for all current items" clicked.
