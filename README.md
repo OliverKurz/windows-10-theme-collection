@@ -31,7 +31,7 @@ I have included start orbs in "files\orbs". Select the theme's start menu and an
 
 5. [Winaero Tweaker](https://winaero.com/download.php?view.1796) is the go to application for tweaking the rest of your system.
 
-6. [Aero Glass for Win8.1+](http://www.glass8.eu/) is an optional advanced customization tool worth checking out. I have included my aero glass atlas themes located in "files\atlas-theme-collection", which you could optionally move to your Aero Glass folder if you choose to install it. Aero Glass can be safely installed in the existing "AeroGlass" directory if you chose to install Theme Signature Bypass to patch you system.
+6. [Aero Glass for Win8.1+](http://www.glass8.eu/) is an optional advanced customization tool worth checking out. I have included my aero glass atlas themes located in "files\atlas-theme-collection", which you could optionally move to your Aero Glass folder if you choose to install it. Aero Glass can be safely installed in the existing "AeroGlass" directory if you chose to install Theme Signature Bypass to patch you system. In "files\transparency_app" I included an app I found to perform mouse and keyboard gestures, and as a bonus it allows easy setting of transparency levels for any app.
 
 
 
