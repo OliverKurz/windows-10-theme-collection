@@ -63,7 +63,7 @@ MTSM=DABJDKT
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=None
+SchemeName=No Sounds
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=C:\Windows\Resources\Themes\DeathStar\Sound Scheme\Windows Ding.wav

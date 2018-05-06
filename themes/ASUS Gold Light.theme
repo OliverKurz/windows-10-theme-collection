@@ -47,7 +47,7 @@ MTSM=DABJDKT
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=None
+SchemeName=No Sounds
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SystemRoot%\Resources\Themes\ASUS Gold\Sound Scheme\Windows Ding.wav
