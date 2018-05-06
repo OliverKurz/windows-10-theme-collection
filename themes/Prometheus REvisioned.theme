@@ -65,7 +65,7 @@ MTSM=DABJDKT
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=Prometheus REvisioned
+SchemeName=None
 
 
 [AppEvents\Schemes\Apps\.Default\.Default]

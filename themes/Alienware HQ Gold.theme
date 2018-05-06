@@ -62,9 +62,10 @@ SCRNSAVE.EXE=
 [MasterThemeSelector]
 MTSM=DABJDKT
 
+
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=Alienware HQ GOLD
+SchemeName=None
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SystemRoot%\Resources\Themes\Alienware HQ Gold\Sound Scheme\Windows Ding.wav
 [AppEvents\Schemes\Apps\.Default\ChangeTheme]

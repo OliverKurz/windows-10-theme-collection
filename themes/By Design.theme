@@ -64,7 +64,7 @@ MTSM=DABJDKT
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=Tinker
+SchemeName=None
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SystemRoot%\Media\Schemes\Tinker\Windows Ding.wav

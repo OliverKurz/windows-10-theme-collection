@@ -64,7 +64,7 @@ MTSM=DABJDKT
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=HUD
+SchemeName=None
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SystemRoot%\Resources\Themes\HUD Machine White\Sound Scheme\Windows Ding.wav

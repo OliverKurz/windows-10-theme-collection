@@ -64,7 +64,7 @@ MTSM=DABJDKT
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=Toxic Blue
+SchemeName=None
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=C:\Windows\Resources\Themes\Toxic Blue\Sound Scheme\Windows Ding.wav
